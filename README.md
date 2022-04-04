@@ -1,4 +1,4 @@
 # World_Weather_Analysis
 
-## Rescources
+## Resources
 https://github.com/cedoula/World_Weather_Analysis
